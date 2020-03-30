@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DogCare</string>
+    <string name="title_activity_log">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="empty_message">You have not added any expenses.\n Go ahead and add some.</string>
+
+    <string name="ask_expense_delete">Delete this expense?</string>
+    <string name="yes_expense_delete">Yes</string>
+    <string name="no_expense_delete">No</string>
+
+    <string name="create_expense_button">Create</string>
+    <string name="delete_expense_button">Delete</string>
+    <string name="update_expense_button">Update</string>
+    <string name="cancel_expense_button">Cancel</string>
+
+    <string name="expense_form_amount_hint">Amount</string>
+    <string name="expense_form_amount_error">"Please enter a valid amount."</string>
+    <string name="expense_form_category_hint">Category</string>
+    <string name="expense_form_uncategorized">Uncategorized</string>
+    <string name="expense_form_description_hint">Description</string>
+
+    <string name="expense_summary_view_title">Summary</string>
+
+</resources>

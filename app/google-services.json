@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "523233877976",
+    "firebase_url": "https://dogcare-e1060.firebaseio.com",
+    "project_id": "dogcare-e1060",
+    "storage_bucket": "dogcare-e1060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523233877976:android:7021f6ed0820c06b5c5cad",
+        "android_client_info": {
+          "package_name": "com.example.bksh1.dogcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523233877976-451vevbhmj92cp1v0gt0keo51ai41bpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bksh1.dogcare",
+            "certificate_hash": "66604f8ba278d87926f4a2e8d1e2073cde4be992"
+          }
+        },
+        {
+          "client_id": "523233877976-vuv05m2hdd6b5bau1k5bvhrqoq0qsphg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2GzhHj7ejBaFusJ0kKJvaLujO4SRLIUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523233877976-vuv05m2hdd6b5bau1k5bvhrqoq0qsphg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
