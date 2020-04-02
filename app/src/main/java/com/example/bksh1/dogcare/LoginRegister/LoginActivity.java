@@ -2,8 +2,8 @@ package com.example.bksh1.dogcare.LoginRegister;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.v7.app.AppCompatActivity;
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
 import android.util.Patterns;
 import android.view.View;
 import android.widget.EditText;
@@ -11,7 +11,6 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.example.bksh1.dogcare.Appointment.AppointmentActivity;
-import com.example.bksh1.dogcare.MainActivity;
 import com.example.bksh1.dogcare.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;

@@ -1,6 +1,6 @@
 package com.example.bksh1.dogcare.Clicker;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.bksh1.dogcare.R;
